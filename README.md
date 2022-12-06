@@ -1,4 +1,5 @@
-# ML_Course - WIFI @Zumtobel Group
+# Machine Learning / Artificial Intelligence Introduction Course 
+## WIFI @Zumtobel Group
 
 ## Day One:
 
