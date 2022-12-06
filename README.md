@@ -1,5 +1,5 @@
 # Machine Learning / Artificial Intelligence Introduction Course 
-## WIFI @Zumtobel Group
+WIFI @Zumtobel Group
 
 ## Day One:
 
