@@ -6,3 +6,5 @@ General Introduction to Artificial Intelligence, the differentiation of AI and M
 Practical example of a regression problem in predicting house prices.
 
 ## Day Two:
+
+Introduction to the main ideas behind Neural Networks.
