@@ -13,4 +13,4 @@ Practical example of a regression problem in predicting house prices.
 
 ## Day Two:
 
-Introduction to the main ideas behind Neural Networks.
+Introduction to the main ideas and structures behind Neural Networks and Convolutional Neural Networks (CNN)
